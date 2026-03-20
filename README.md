@@ -1,3 +1,15 @@
+---
+title: RAG Knowledge Worker
+emoji: "📚"
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: "4.44.1"
+python_version: "3.10"
+app_file: app.py
+pinned: false
+---
+
 # Advanced RAG Knowledge Worker
 
 A production-ready Retrieval Augmented Generation (RAG) system using **Groq API** for fast LLM inference and intelligent document chunking.
