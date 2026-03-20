@@ -1,6 +1,6 @@
 ---
 title: RAG Knowledge Worker
-emoji: "📚"
+emoji: 📚
 colorFrom: blue
 colorTo: indigo
 sdk: gradio
